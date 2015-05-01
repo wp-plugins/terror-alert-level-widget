@@ -1,10 +1,11 @@
 === Terror Alert Level Widget ===
+Contributors: Piotr Pesta
 Plugin Name: Terror Alert Level Widget
 Plugin URI: http://smartfan.pl/
 Tags: terror, level, terrorist, widget, ISIS
 Author: Piotr Pesta
 Requires at least: 2.8.0
-Tested up to: 4.1
+Tested up to: 4.2.1
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
