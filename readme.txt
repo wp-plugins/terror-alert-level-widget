@@ -1,5 +1,6 @@
 === Terror Alert Level Widget ===
 Contributors: Piotr Pesta
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EEDF5TV3M2WVG
 Plugin Name: Terror Alert Level Widget
 Plugin URI: http://smartfan.pl/
 Tags: terror, level, terrorist, widget, ISIS
