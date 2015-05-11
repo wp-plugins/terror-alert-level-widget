@@ -1,12 +1,12 @@
 === Terror Alert Level Widget ===
 Contributors: Piotr Pesta
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EEDF5TV3M2WVG
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EEDF5TV3M2WVG&lc=US
 Plugin Name: Terror Alert Level Widget
 Plugin URI: http://smartfan.pl/
 Tags: terror, level, terrorist, widget, ISIS
 Author: Piotr Pesta
 Requires at least: 2.8.0
-Tested up to: 4.2.1
+Tested up to: 4.2
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -17,7 +17,7 @@ Widget that shows terror alert level based on news stories from BBC.
 
 Widget that shows terror alert level based on news stories from BBC. Terror Alert Level Widget analyzes BBC news and shows website visitors terror level label adequate to world danger level (based on BBC news).
 
-If you would like to show your support for this software, please consider donating: [Donate via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EEDF5TV3M2WVG).
+If you would like to show your support for this software, please consider donating: [Donate via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EEDF5TV3M2WVG&lc=US).
 
 == Installation ==
 
