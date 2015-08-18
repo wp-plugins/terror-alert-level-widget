@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Terror Alert Level
+Plugin Name: Terror Alert Level Widget
 Plugin URI: http://smartfan.pl/
-Description: Widget that shows terror alert level based on news from agencies.
+Description: Widget that shows terror alert level based on news stories from BBC.
 Author: Piotr Pesta
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://smartfan.pl/
 License: GPL12
 */
@@ -16,7 +16,7 @@ class terror_alert extends WP_Widget {
 // konstruktor widgetu
 function terror_alert() {
 
-	$this->WP_Widget(false, $name = __('Terror Alert', 'wp_widget_plugin') );
+	parent::__construct(false, $name = __('Terror Alert', 'wp_widget_plugin') );
 
 }
 
